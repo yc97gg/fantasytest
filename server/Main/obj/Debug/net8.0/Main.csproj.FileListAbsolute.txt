@@ -1,0 +1,14 @@
+E:\I\u3dxiangmu\fantasytest\server\Main\bin\Debug\net8.0\Main.exe
+E:\I\u3dxiangmu\fantasytest\server\Main\bin\Debug\net8.0\Main.deps.json
+E:\I\u3dxiangmu\fantasytest\server\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+E:\I\u3dxiangmu\fantasytest\server\Main\bin\Debug\net8.0\Main.dll
+E:\I\u3dxiangmu\fantasytest\server\Main\bin\Debug\net8.0\Main.pdb
+E:\I\u3dxiangmu\fantasytest\server\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+E:\I\u3dxiangmu\fantasytest\server\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+E:\I\u3dxiangmu\fantasytest\server\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+E:\I\u3dxiangmu\fantasytest\server\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+E:\I\u3dxiangmu\fantasytest\server\Main\obj\Debug\net8.0\Main.dll
+E:\I\u3dxiangmu\fantasytest\server\Main\obj\Debug\net8.0\refint\Main.dll
+E:\I\u3dxiangmu\fantasytest\server\Main\obj\Debug\net8.0\Main.pdb
+E:\I\u3dxiangmu\fantasytest\server\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+E:\I\u3dxiangmu\fantasytest\server\Main\obj\Debug\net8.0\ref\Main.dll
