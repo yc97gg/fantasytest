@@ -20,7 +20,7 @@ public class Entry : MonoBehaviour
     {
         //创建一个游戏scene
         scene = await Fantasy.Platform.Unity.Entry.CreateScene();
-
+        //scene = await Fantasy.Platform.Unity.Entry.CreateScene();
        
     }
 }
